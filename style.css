@@ -1,0 +1,90 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaeaea;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+/* style.css snippet for header */
+header {
+    background-color: #2c3e50;
+    padding: 10px 20px;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+}
+.header-right {
+    float: right;
+    margin: 10px;
+    font-size: 16px;
+}
+
+.header-right a {
+    color: #ecf0f1;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.user-links {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.user-links a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #2980b9;
+}
+.user-icon {
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.nav-links {
+    text-align: right;
+    margin: 10px 20px;
+}
+.nav-links a {
+    text-decoration: none;
+    color: #2980b9;
+    font-size: 16px;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+}
+.form-container {
+    width: 300px;
+    margin: 100px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    box-sizing: border-box;
+}
+button {
+    width: 100%;
+    padding: 8px;
+    background: #2980b9;
+    color: #fff;
+    border: none;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid #ccc;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
