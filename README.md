@@ -167,7 +167,6 @@ Follow these steps to run the project locally:
 
 ![DIUMovieTicketManagement](https://github.com/user-attachments/assets/104e517c-ffa4-4830-b509-436eb593f4a6)
 
-Project UI
 
 ----------
 
