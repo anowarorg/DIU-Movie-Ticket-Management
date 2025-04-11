@@ -165,8 +165,7 @@ Follow these steps to run the project locally:
 
 ## Screenshots
 
-_(Insert screenshots of key pages such as the user homepage, booking page, admin dashboard, add/update movie forms, etc.)_![RRR](https://github.com/user-attachments/assets/85a804d6-f18a-4726-9926-c289c1ec345a)
-
+_(Insert screenshots of key pages such as the user homepage, booking page, admin dashboard, add/update movie forms, etc.)
 
 ----------
 
