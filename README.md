@@ -163,7 +163,7 @@ Follow these steps to run the project locally:
 
 ----------
 
-## Screenshots
+## Project UI
 
 _(Insert screenshots of key pages such as the user homepage, booking page, admin dashboard, add/update movie forms, etc.)
 
