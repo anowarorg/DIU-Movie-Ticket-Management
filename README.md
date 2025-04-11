@@ -165,7 +165,9 @@ Follow these steps to run the project locally:
 
 ## Project UI
 
-_(Insert screenshots of key pages such as the user homepage, booking page, admin dashboard, add/update movie forms, etc.)
+![DIUMovieTicketManagement](https://github.com/user-attachments/assets/104e517c-ffa4-4830-b509-436eb593f4a6)
+
+Project UI
 
 ----------
 
